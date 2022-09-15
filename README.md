@@ -1,1 +1,1 @@
-# ti2 exercicio 1, 2, 3 e 4
+# ti2 exercícios 1, 2, 3 e 4
